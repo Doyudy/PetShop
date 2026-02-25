@@ -2,7 +2,7 @@
 
 Projeto de uma landing page moderna para um Pet Shop, desenvolvida com foco em apresentação de serviços, contato rápido via WhatsApp e experiência visual agradável.
 
-🔗 **Deploy:** https://pet-shop-phi-ten.vercel.app/
+🔗 **Deploy:** https://di0g0oliveira.github.io/PetShop/
 
 ---
 
